@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mcp-obsidian": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-obsidian",
+        "/Users/sasakitakashinanji/obsidian"
+      ],
+      "env": {}
+    }
+  }
+}
